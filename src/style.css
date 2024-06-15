@@ -1,0 +1,26 @@
+#gameboard {
+  background-color: black;
+  height: 200px;
+  width: 200px;
+}
+
+.square {
+  height: 48px;
+  width: 51px;
+  margin: 2px;
+}
+
+.status {
+  color: lavender;
+  margin-bottom: 14px;
+}
+
+.status svg {
+  width: 26px;
+  height: 26px;
+  margin: 2px;
+  color: gold;
+}
+#restart {
+  margin-top: 36px;
+}
